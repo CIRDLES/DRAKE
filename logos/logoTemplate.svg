@@ -317,7 +317,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -327,9 +327,9 @@
      id="layer1"
      transform="translate(0,-752.36208)">
     <g
-       transform="translate(6.00012,757.36208)"
+       transform="matrix(1.0276657,0,0,1.122807,2.0162677,739.55506)"
        id="g5188"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.99">
+       style="opacity:0.98999999;fill:#000000;fill-opacity:1;stroke:none">
       <path
          style="fill:#000000;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0"
