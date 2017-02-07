@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="126.0" layoutY="22.0" text="About" textAlignment="CENTER">
+         <font>
+            <Font size="72.0" />
+         </font>
+      </Label>
+      <SVGPath content="M116.55,241.2c-10.561,0-23.521-7.5-28.8-16.621L54.329,166.62c-5.279-9.121-5.279-24.121,0-33.24L87.75,75.42c5.279-9.12,18.239-16.62,28.8-16.62h66.9c10.559,0,23.52,7.5,28.799,16.62l33.42,57.96c5.281,9.119,5.281,24.119,0,33.24l-33.42,57.959c-5.279,9.121-18.24,16.621-28.799,16.621H116.55L116.55,241.2z" layoutX="75.0" layoutY="68.0" />
+      <Line endX="150.0" layoutX="224.0" layoutY="107.0" startX="-150.0" />
+      <Line endY="-100.0" layoutX="224.0" layoutY="458.0" startY="100.0" />
+      <Label layoutX="74.0" layoutY="358.0" text="Project V 0.01" />
+      <ImageView fitHeight="75.0" fitWidth="156.0" layoutX="247.0" layoutY="490.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../logos/Cirdles/cirdles-logov2.png" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>
