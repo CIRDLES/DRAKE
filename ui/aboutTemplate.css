@@ -1,0 +1,19 @@
+.project-Title {
+  -fx-font: 16px "Sans-Serif";
+}
+
+.main-Pain {
+  -fx-background-color: #444444;
+}
+
+.main-Text-Color {
+  -fx-text-fill: #ffffff;
+}
+
+.bars {
+  -fx-stroke: #ffffff;
+}
+
+.logo {
+  -fx-fill: #ffffff;
+}
