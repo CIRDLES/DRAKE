@@ -4,6 +4,9 @@
 
 .main-Pain {
   -fx-background-color: #444444;
+  -fx-border-width: 5px;
+  -fx-border-color: white;
+  
 }
 
 .main-Text-Color {
