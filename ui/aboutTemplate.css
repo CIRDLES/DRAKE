@@ -1,22 +1,28 @@
 .project-Title {
-  -fx-font: 16px "Sans-Serif";
+  -fx-font: 20px "Sans-Serif";
 }
 
 .main-Pain {
   -fx-background-color: #444444;
   -fx-border-width: 5px;
   -fx-border-color: white;
-  
+
 }
 
 .main-Text-Color {
   -fx-text-fill: #ffffff;
 }
+.description-Text {
+  -fx-font-size: 14px;
+  -fx-text-fill: #ffffff;
 
-.bars {
+}
+.bars  {
   -fx-stroke: #ffffff;
 }
 
 .logo {
   -fx-fill: #ffffff;
+  -fx-scale-x: .69;
+  -fx-scale-y: .69;
 }
