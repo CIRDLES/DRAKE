@@ -11,3 +11,6 @@ being worked on.
 
 * Project Title and Version?
 * Build Date?
+appfx||app/.Version
+
+examples
