@@ -34,8 +34,8 @@
    id="svg4282"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="chroniLogo.svg"
-   inkscape:export-filename="C:\Users\baldy\Work\CIRDLES\DRAKE\logos\CHRONI\chroniLogo.png"
+   sodipodi:docname="chroniLogoSansText.svg"
+   inkscape:export-filename="C:\Users\baldy\Work\CIRDLES\DRAKE\logos\CHRONI\chroniLogoSansText.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -340,7 +340,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -361,22 +361,8 @@
          id="path5190"
          d="M 102.199,259 C 88.999,259 72.8,249.646 66.201,238.214 L 24.395,165.786 c -6.599,-11.433 -6.599,-30.14 0,-41.572 L 66.201,51.786 C 72.8,40.354 88.999,31 102.199,31 l 83.602,0 c 13.2,0 29.399,9.354 35.998,20.786 l 41.805,72.428 c 6.6,11.433 6.6,30.14 0,41.572 l -41.805,72.428 C 215.2,249.646 199.001,259 185.801,259 l -83.602,0 z" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="149.26163"
-       y="1011.7688"
-       id="text5379"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan5381"
-         x="149.26163"
-         y="1011.7688"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;writing-mode:lr-tb;text-anchor:middle">Chroni</tspan></text>
     <g
-       transform="matrix(0.56460854,0,0,0.56460854,240.74698,-711.87598)"
+       transform="matrix(0.62070092,0,0,0.62070092,249.76245,-850.25937)"
        id="g9994">
       <path
          sodipodi:nodetypes="ccccccccccccccccc"
