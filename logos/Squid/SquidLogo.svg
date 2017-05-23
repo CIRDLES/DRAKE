@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <!--
 /*
  *
@@ -18,6 +19,7 @@
  *  limitations under the License.
  */
 -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -32,7 +34,10 @@
    id="svg4282"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="SquidLogo.svg">
+   sodipodi:docname="SquidLogo.svg"
+   inkscape:export-filename="C:\Users\baldy\Work\CIRDLES\DRAKE\logos\Squid\SquidLogo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4284">
     <filter
@@ -315,15 +320,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6432983"
-     inkscape:cx="261.11167"
-     inkscape:cy="173.48464"
+     inkscape:cx="68.206949"
+     inkscape:cy="146.10069"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-7"
+     inkscape:window-width="1536"
+     inkscape:window-height="801"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -335,7 +340,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -347,11 +352,11 @@
     <g
        transform="matrix(1.2042957,0,0,1.3157894,-23.41843,711.57262)"
        id="g5188"
-       style="opacity:0.98999999;fill:#3c4fd6;fill-opacity:1;stroke:none"
+       style="opacity:0.98999999;fill:#3a4c88;fill-opacity:1;stroke:none"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
-         style="fill:#3c4fd6;fill-opacity:1;stroke:none"
+         style="fill:#3a4c88;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0"
          id="path5190"
          d="M 102.199,259 C 88.999,259 72.8,249.646 66.201,238.214 L 24.395,165.786 c -6.599,-11.433 -6.599,-30.14 0,-41.572 L 66.201,51.786 C 72.8,40.354 88.999,31 102.199,31 l 83.602,0 c 13.2,0 29.399,9.354 35.998,20.786 l 41.805,72.428 c 6.6,11.433 6.6,30.14 0,41.572 l -41.805,72.428 C 215.2,249.646 199.001,259 185.801,259 l -83.602,0 z" />
@@ -373,7 +378,7 @@
     <path
        id="path4208"
        d="m 107.42707,796.87588 19.49431,19.49431 12.53205,-12.53205 -6.96223,-6.96226 12.25353,5.50851 -7.09227,23.47555 -2.37637,21.60696 0,9.15363 0,25.83369 1.74057,5.5698 5.82648,5.56981 0,0.70191 -11.20378,11.44866 -30.63379,-30.63378 -30.63379,30.63378 18.38026,18.3796 12.25353,-12.25283 -6.12673,-6.12677 -6.1268,6.12677 -6.12673,-6.12677 18.38026,-18.38027 24.54801,24.55486 -8.80194,8.78163 -15.92986,15.92915 25.73227,25.73231 18.38025,-18.38033 -12.25353,-12.25353 -6.12672,6.12675 6.12672,6.12678 -6.12672,6.12676 -13.47874,-13.47874 15.86348,-15.91022 2.70017,-2.71971 11.20558,-11.45059 7.15546,0 7.15546,0 11.20558,11.45059 2.70018,2.71971 15.86347,15.91022 -13.47873,13.47874 -6.12673,-6.12676 6.12673,-6.12678 -6.12673,-6.12675 -12.25353,12.25353 18.38026,18.38033 25.73226,-25.73231 -15.92985,-15.92915 -8.80194,-8.78163 24.548,-24.55486 18.38026,18.38027 -6.12672,6.12677 -6.12681,-6.12677 -6.12673,6.12677 12.25354,12.25283 18.38025,-18.3796 -30.63379,-30.63378 -30.63379,30.63378 -11.20378,-11.44866 0,-0.70191 5.82648,-5.56981 1.74057,-5.5698 0,-25.83369 0,-9.15363 -2.37637,-21.60696 -7.09227,-23.47555 12.25353,-5.50851 -6.96222,6.96226 12.53204,12.53205 19.49431,-19.49431 L 150,765.40649 Z"
-       style="fill:#e22f37;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34658042px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#ff6e40;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34658042px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.98"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
        inkscape:export-xdpi="90"
