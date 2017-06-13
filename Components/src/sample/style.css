@@ -1,0 +1,42 @@
+.condensedBtn{
+    -fx-border-width: 0;
+    -fx-border-color: #8187ff;
+    -fx-border-radius: 2;
+    -fx-background-color: #8187ff;
+    -fx-background-radius: 2;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-padding: 0 16 0 16;
+    -fx-effect: dropshadow(one-pass-box, rgba(0,0,0,.5), 10.75, 0, 0, 3.0);
+}
+.condensedBtn:hover{
+    -fx-background-color: derive(#8187ff, 40%);
+    -fx-effect: dropshadow(one-pass-box, rgba(0,0,0,.5), 10.75, 0, 0, 4.0);
+}
+.condensedBtn:pressed, .condensedBtn:hover:pressed{
+    -fx-background-color: derive(#8187ff, -20%);
+    -fx-effect: dropshadow(one-pass-box, rgba(0,0,0,.5), 1, 0, 0, 0);
+}
+.condensedBtn2{
+    -fx-background-color: derive(#8187ff, 40%);
+    -fx-border-width: 0;
+    -fx-border-color: #8187ff;
+    -fx-border-radius: 2;
+    -fx-background-radius: 2;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-padding: 0 16 0 16;
+    -fx-effect: dropshadow(one-pass-box, rgba(0,0,0,.5), 10.75, 0, 0, 4.0);
+}
+.condensedBtn3{
+    -fx-background-color: derive(#8187ff, -20%);
+    -fx-border-width: 0;
+    -fx-border-color: #8187ff;
+    -fx-border-radius: 2;
+    -fx-background-radius: 2;
+    -fx-background-insets: 0;
+    -fx-text-fill: white;
+    -fx-padding: 0 16 0 16;
+    -fx-effect: dropshadow(one-pass-box, rgba(0,0,0,.5), 1, 0, 0, 0);
+}
+
