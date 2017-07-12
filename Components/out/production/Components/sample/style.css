@@ -1,3 +1,11 @@
+
+* {
+    BaseColor: #8187ff;
+    Lighter: derive(#8187ff, -20%);
+    Darker: derive(#8187ff, 40%);
+    TextFill: white;
+}
+
 .condensedBtn{
     -fx-border-width: 0;
     -fx-border-color: #8187ff;

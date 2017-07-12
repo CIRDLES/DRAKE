@@ -1,0 +1,37 @@
+* {
+    main-color: #666666;
+    accent-color: #dd2222;
+    not-accent: #976868
+}
+
+.label{
+    -fx-text-fill: main-color;
+    -fx-text-alignment: CENTER;
+}
+
+.radio-button .radio{
+    -fx-background-color: transparent;
+    -fx-background-border-color: transparent;
+    -fx-border-color: accent-color;
+    -fx-border-radius: 15;
+    -fx-border-width: 2;
+}
+
+.radio-button:selected .radio .dot{
+    -fx-background-color: accent-color;
+    -fx-background-insets: -1.5;
+    -fx-border-color: red;
+    -fx-border-width: 0;
+    -fx-border-radius: 15;
+    -fx-scale-shape: true;
+    -fx-position-shape: true;
+}
+
+.radio-button:selected .radio{
+    -fx-background-color: tranparent;
+    -fx-border-color: accent-color;
+}
+
+.radio-button .label{
+    -fx-text-fill: yellow;
+}
