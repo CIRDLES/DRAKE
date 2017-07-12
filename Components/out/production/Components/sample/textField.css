@@ -1,0 +1,20 @@
+* {
+    main-color: #666666;
+    accent-color: #dd2222;
+    not-accent: #976868
+}
+
+.text-field {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent transparent not-accent transparent;
+    -fx-padding: 16 0 8 0;
+    -fx-border-radius: 0;
+}
+
+.text-field:focused {
+    -fx-border-color: transparent transparent accent-color transparent;
+}
+
+.text-field *.label{
+    -fx-text-color: red;
+}

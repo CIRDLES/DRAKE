@@ -1,0 +1,68 @@
+* {
+    background: #e9e9e9;
+    bg-text: #0f0f0f;
+
+    accent: #04498f;
+    accent-light: derive(#04498f, 50%);
+
+
+}
+
+
+.background {
+    -fx-background-color: background;
+    -fx-font-family: "Lucida Sans Bold", "Segoe UI Semibold";
+}
+
+
+
+.flatBtn{
+    -fx-background-color: transparent;
+    -fx-background-radius: 0;
+    -fx-text-fill: red;
+
+    -fx-padding: 8 16 8 16;
+
+    -fx-font-family: "Lucida Sans Bold", "Segoe UI Semibold";
+}
+
+.flatBtn:hover {
+    -fx-background-color: accent;
+}
+
+.flatBtn:pressed, .flatBtn:hover:pressed{
+    -fx-background-color: derive(rgba(4,49,88,.12), -20%);
+}
+
+.flatBtnHover {
+    -fx-background-color: accent;
+    -fx-background-radius: 0;
+    -fx-padding: 8 16 8 16;
+}
+.flatBtnPressed {
+    -fx-background-color: accent-light;
+    -fx-background-radius: 0;
+    -fx-padding: 8 16 8 16;
+
+}
+
+
+.check-box *.box {
+    -fx-background-color: transparent;
+    -fx-background-radius: 5;
+
+    -fx-border-color: yellow;
+    -fx-border-radius: 5;
+    -fx-border-width: 2;
+
+
+}
+.check-box>.box{
+    -fx-background-color: transparent;
+}
+
+.check-box:selected>.box>.mark{
+    -fx-bacgroud-color: yellow;
+}
+
+
