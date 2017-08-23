@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox alignment="CENTER" layoutX="139.0" layoutY="119.0" prefHeight="162.0" prefWidth="323.0" spacing="50.0" style="-fx-background-color: white;">
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <children>
+            <CheckBox mnemonicParsing="false" selected="true" text="CheckBox" />
+            <CheckBox disable="true" mnemonicParsing="false" text="CheckBox" />
+         </children>
+      </HBox>
+      <Label layoutX="283.0" layoutY="55.0" text="Label" />
+   </children>
+</AnchorPane>

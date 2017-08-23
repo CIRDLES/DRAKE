@@ -1,9 +1,9 @@
 
 
-#D.R.A.K.E.
-###Design Resources Assets Kits & Elements
+# D.R.A.K.E.
+### Design Resources Assets Kits & Elements
 
-*A graphic design repository for [CIRDLES](https://cirdles.org) projects.*
+* A graphic design repository for [CIRDLES](https://cirdles.org) projects.*
 
 Logos and the style guidelines for those logos can be found in the directory [*logos/*](https://github.com/CIRDLES/DRAKE/tree/master/logos)
 
