@@ -3,7 +3,7 @@
 # D.R.A.K.E.
 ### Design Resources Assets Kits & Elements
 
-* A graphic design repository for [CIRDLES](https://cirdles.org) projects.*
+*A graphic design repository for [CIRDLES](https://cirdles.org) projects.*
 
 Logos and the style guidelines for those logos can be found in the directory [*logos/*](https://github.com/CIRDLES/DRAKE/tree/master/logos)
 
@@ -25,7 +25,7 @@ project_name + logo_type +  \. + file_extension
 ```
 
 The four logo types are:
-* Main logos = ''
+* Main logos = 'Logo'
 * Logos without a hexagonal background = 'SansHex'
 * Logos without the name of the project = 'SansText'
 * Logos without a hexagonal background nor project name 'SansHexText'
