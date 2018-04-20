@@ -26,9 +26,9 @@ project_name + logo_type +  \. + file_extension
 
 The four logo types are:
 * Main logos = 'Logo'
-* Logos without a hexagonal background = 'SansHex'
+* Logos without a background = 'SansBg'
 * Logos without the name of the project = 'SansText'
-* Logos without a hexagonal background nor project name 'SansHexText'
+* Logos without a hexagonal background nor project name 'SansBgText'
 
 Each logo type is in the following formats:
 * Portable Network Graphics = png
@@ -36,7 +36,7 @@ Each logo type is in the following formats:
 * Icon = ico
 
 #### Example
-If you had a logo for _project_ Ipsum _without hexagon_ as a png file then the file will be called
+If you had a logo for _project_ Ipsum _without a background_ as a png file then the file will be called
 ```
-IpsumSansHex.png
+IpsumSansBg.png
 ```
