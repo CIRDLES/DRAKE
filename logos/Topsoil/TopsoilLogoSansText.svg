@@ -33,10 +33,17 @@
    viewBox="0 0 300.00001 300.00001"
    id="svg4282"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="TopsoilSansHex.svg">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="TopsoilLogoSansText.svg"
+   inkscape:export-filename="C:\Users\baldy\Work\CIRDLES\DRAKE\logos\Topsoil\TopsoilLogoSansText.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4284">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9768"
+       is_visible="true" />
     <filter
        id="filter4342"
        style="color-interpolation-filters:sRGB"
@@ -316,16 +323,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6699219"
-     inkscape:cx="131.48845"
-     inkscape:cy="118.8462"
+     inkscape:zoom="1.0862315"
+     inkscape:cx="-30.357711"
+     inkscape:cy="-8.2668241"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-7"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -346,9 +353,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-752.36208)">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#66cbfe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.47819686;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:11.59199905;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect9764"
+       width="300"
+       height="300"
+       x="0"
+       y="752.36206" />
     <g
        id="g4195"
-       transform="matrix(1.2584619,0,0,1.298706,-31.491923,720.825)"
+       transform="matrix(1.2584619,0,0,1.298706,-31.491923,740.825)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -364,7 +378,7 @@
     </g>
     <g
        id="g4205"
-       transform="matrix(1.2584619,0,0,1.298706,-31.491923,720.825)"
+       transform="matrix(1.2584619,0,0,1.298706,-31.491923,740.825)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g

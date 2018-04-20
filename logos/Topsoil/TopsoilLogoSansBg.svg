@@ -33,10 +33,17 @@
    viewBox="0 0 300.00001 300.00001"
    id="svg4282"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="TopsoilSansText.svg">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="TopsoilLogoSansBg.svg"
+   inkscape:export-filename="C:\Users\baldy\Work\CIRDLES\DRAKE\logos\Topsoil\TopsoilLogoSansBg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4284">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9768"
+       is_visible="true" />
     <filter
        id="filter4342"
        style="color-interpolation-filters:sRGB"
@@ -316,16 +323,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6699219"
-     inkscape:cx="180.59255"
-     inkscape:cy="79.992369"
+     inkscape:zoom="1.0862315"
+     inkscape:cx="-30.357711"
+     inkscape:cy="-8.2668241"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="-7"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -347,20 +354,8 @@
      id="layer1"
      transform="translate(0,-752.36208)">
     <g
-       transform="matrix(1.2042957,0,0,1.3157894,-23.41843,711.57262)"
-       id="g5188"
-       style="opacity:0.98999999;fill:#67ccff;fill-opacity:1;stroke:none"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         style="fill:#67ccff;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0"
-         id="path5190"
-         d="M 102.199,259 C 88.999,259 72.8,249.646 66.201,238.214 L 24.395,165.786 c -6.599,-11.433 -6.599,-30.14 0,-41.572 L 66.201,51.786 C 72.8,40.354 88.999,31 102.199,31 l 83.602,0 c 13.2,0 29.399,9.354 35.998,20.786 l 41.805,72.428 c 6.6,11.433 6.6,30.14 0,41.572 l -41.805,72.428 C 215.2,249.646 199.001,259 185.801,259 l -83.602,0 z" />
-    </g>
-    <g
        id="g4195"
-       transform="matrix(1.2584619,0,0,1.298706,-31.491923,720.825)"
+       transform="matrix(1.5511852,0,0,1.6007903,-73.707679,703.25082)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -376,7 +371,7 @@
     </g>
     <g
        id="g4205"
-       transform="matrix(1.2584619,0,0,1.298706,-31.491923,720.825)"
+       transform="matrix(1.5511852,0,0,1.6007903,-73.707679,703.25082)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
